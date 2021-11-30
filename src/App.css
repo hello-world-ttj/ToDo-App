@@ -11,13 +11,14 @@ body {
   background: linear-gradient(to right, #1fddff, #ff4b1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   animation: bgChange infinite ease 5s ;
   background-size: cover;
+  width: 100%;
 }
 
 .App {
   display: flex;
   flex-direction: column;
   justify-content: start;
-  width: 520px;
+  width: 500px;
   min-height: 600px;
   background: #142F43;
   text-align: center;
