@@ -18,7 +18,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: start;
-  width: 50vw;
+  width: 80vw;
   min-height: 600px;
   background: #142F43;
   text-align: center;
@@ -53,7 +53,7 @@ h1 {
   border-radius: 4px 0 0 4px;
   border: 2px solid #FF5F7E;
   outline: none;
-  width: 320px;
+  width: 300px;
   background: transparent;
   color: #fff;
 }
